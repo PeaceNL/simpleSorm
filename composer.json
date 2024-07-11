@@ -1,0 +1,17 @@
+{
+    "name": "vinauto/prosto",
+    "autoload": {
+        "psr-4": {
+            "Vinauto\\Prosto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PeaceNL",
+            "email": "karta5269@gmail.com"
+        }
+    ],
+    "require": {
+        "giggsey/libphonenumber-for-php": "^8.13"
+    }
+}
